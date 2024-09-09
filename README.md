@@ -15,7 +15,7 @@
 
 I used a dataset available on Kaggle.com
 
-[Advanced_IoT_Dataset.csv]( https://talapkapetra.github.io/greenhouse-project/Advanced_IoT_Dataset.csv)
+[Advanced_IoT_Dataset.csv](https://talapkapetra.github.io/greenhouse-project/Advanced_IoT_Dataset.csv)
 
 ## Project Overview
 
@@ -39,6 +39,8 @@ I aimed the comprehensive comparison of the chlorophyll utilization of the diffe
 Python, PyCharm: data cleaning, data preparation, exploratory data analysis, statistics
 
 ## Data Preparation
+
+[greenhouse_project.ipynb](https://talapkapetra.github.io/greenhouse-project/greenhouse_project.ipynb)
 
  - I used the following methods to explore the dataset: head(), size, shape, info(), value_counts()
  - Remove duplicated values
